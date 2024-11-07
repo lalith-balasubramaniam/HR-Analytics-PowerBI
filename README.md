@@ -1,15 +1,14 @@
 
 # HR Analytics Case Study in Power BI
 
-![Atlas Labs Overview](Overview.png)
-
 ## Project Overview
-This project, part of DataCamp's learning series, analyzes HR data for a fictitious software company named **Atlas Labs**. The analysis provides insights into various HR metrics, such as attrition rate, hiring trends, and departmental distributions. This Power BI report is designed to help the company’s HR department make data-driven decisions by visualizing key performance indicators and employee demographics.
+This project, analyzes HR data for a fictitious software company named **Atlas Labs**. The analysis provides insights into various HR metrics, such as attrition rate, hiring trends, and departmental distributions. This Power BI report is designed to help the company’s HR department make data-driven decisions by visualizing key performance indicators and employee demographics.
 
 ## Project Files
 - **HRDataAnalytics.pbix**: The Power BI file containing all data, visualizations, and analysis.
 - **Overview.png**: A screenshot of the Power BI report's home page, showing an overview of the dashboard and its main metrics.
 - **README.md**: Documentation describing the project, methodology, and insights.
+
 
 ## Data and Analysis
 The HR Analytics report includes the following sections:
@@ -36,5 +35,5 @@ The HR Analytics report includes the following sections:
 2. Open the file in **Power BI Desktop**.
 3. Explore the visualizations across the tabs (Overview, Demographics, Performance Tracker, Attrition) to understand the HR insights for Atlas Labs.
 
-## Learning Outcomes
-This project helped solidify my skills in Power BI, data analysis, and DAX. It also provided experience in creating interactive dashboards that can support decision-making in an HR context.
+## Licenses
+The data sets for the project are provided by Datacamp.
