@@ -1,4 +1,6 @@
 
+![Atlas Labs Overview](screenshots/overview.png)
+
 # HR Analytics Case Study in Power BI
 
 ## Project Overview
@@ -8,6 +10,11 @@ This project, analyzes HR data for a fictitious software company named **Atlas L
 - **HRDataAnalytics.pbix**: The Power BI file containing all data, visualizations, and analysis.
 - **Overview.png**: A screenshot of the Power BI report's home page, showing an overview of the dashboard and its main metrics.
 - **README.md**: Documentation describing the project, methodology, and insights.
+- **Datasets Folder**: Contains the following dataset files used for the analysis:
+    - **dataset_shampoo.csv**
+    - **internal_sales_data.csv**
+    - **new_product_launch.csv**
+    - **promotion_analysis.csv**
 
 
 ## Data and Analysis
@@ -20,6 +27,8 @@ The HR Analytics report includes the following sections:
 3. **Performance Tracker**: Tracks employee performance metrics, highlighting departments or roles that excel or underperform in terms of KPIs.
 
 4. **Attrition**: Insights into employee attrition, with visualizations on factors influencing turnover and comparison across departments and job roles.
+
+
 
 ## Key Visualizations and Insights
 - **Employee Hiring Trends**: A bar chart visualizing the hiring trends over the years, segmented by attrition status.
