@@ -45,4 +45,4 @@ The HR Analytics report includes the following sections:
 3. Explore the visualizations across the tabs (Overview, Demographics, Performance Tracker, Attrition) to understand the HR insights for Atlas Labs.
 
 ## Licenses
-The data sets for the project are provided by Datacamp.
+The datasets for the project are provided by Datacamp.
