@@ -1,5 +1,5 @@
 
-![Atlas Labs Overview](screenshots/overview.png)
+![Atlas Labs Overview](screenshots/Overview.png)
 
 # HR Analytics Case Study in Power BI
 
